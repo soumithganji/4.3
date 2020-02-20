@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Dialog For Alert'
+rootProject.name='Picker For Date'
